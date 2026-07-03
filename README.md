@@ -5,8 +5,10 @@ An interactive 3D wave interference simulator built with C++ and SDL2. The progr
 ## 📺 Demo Video
 
 Check out the simulation in action:
-[<video src="github.com/Hayathorium/wave-interference-simulator/video-demo.mp4" width="600" controls>
-</video>](https://github.com/Hayathorium/wave-interference-simulator/blob/main/video-demo.mp4)
+
+
+[<img src="https://img.youtube.com/vi/Z7DJ5KBYefY/hqdefault.jpg"/>](https://www.youtube.com/embed/Z7DJ5KBYefY)
+
 
 *(Alternatively, you can access the video directly at: [https://www.youtube.com/watch?v=Z7DJ5KBYefY](https://www.youtube.com/watch?v=Z7DJ5KBYefY))*
 
